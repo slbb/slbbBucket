@@ -1,0 +1,12 @@
+{
+    "version": "6.84",
+    "homepage": "https://www.softwareok.com/?seite=Freeware/DesktopOK",
+    "url": "https://www.softwareok.com/Download/DesktopOK_Unicode.zip",
+    "hash": "242e16dec7d899ac5c89b3cab7e8154ca7fd3a8ff7e43bce51752acaf21173d8",
+    "shortcuts": [
+        [
+            "DesktopOK_Unicode.exe",
+            "DesktopOK"
+        ]
+    ]
+}
