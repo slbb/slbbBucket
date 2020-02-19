@@ -1,0 +1,10 @@
+{
+    "version":  "2.8.0",
+    "license":  "",
+    "url":  "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe",
+    "homepage":  "",
+    "hash":  "e4beb8632c58ac40c610914ff352b4c3ecd257aae6613708bbe69683b5bf71e6",
+    "installer":{
+        "file": "WeChatSetup.exe"
+    }
+}
